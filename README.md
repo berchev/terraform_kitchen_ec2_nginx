@@ -46,6 +46,7 @@ Please follow the instructions below in order to run this project.
   - choose **SSH** from **Type** drop-down menu 
   - choose **Anywhere** from **Source** drop-down menu 
   - click on **Save** button
+
 Now you can proceed further
 
 ## Prepare your PC environment for this **Terraform project**
