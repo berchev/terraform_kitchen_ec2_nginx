@@ -1,0 +1,9 @@
+.bundle/
+.kitchen/
+.terraform/
+Gemfile.lock
+georgi.env
+terraform.tfstate
+terraform.tfstate.backup
+vendor/
+testing.tfvars
