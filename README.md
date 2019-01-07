@@ -87,7 +87,7 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 ```
 - do `. ~/.bash_profile` in order to apply the changes made in .bash_profile 
 
-- Change to the directory with `Gemfile` and type: `undle install --path vendor/bundle` in order to install all needed gems for the test
+- Change to the directory with `Gemfile` and type: `bundle install --path vendor/bundle` in order to install all needed gems for the test
 
 ## Test your code with **kitchen**
 - Edit **ssh_key** field with `~/path/to/your/private/aws/key.pem` in `.kitchen.yml` file
